@@ -1,5 +1,5 @@
 # iPDB
-A GUI application with Python3 that manages Protein Data Bank (PDB) files for research projects. 
+A GUI application with Python 3 that manages Protein Data Bank (PDB) files for research projects. 
 
 Features of the application include:
 <ul>
