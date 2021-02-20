@@ -9,4 +9,4 @@ Features of the application include:
   <li>Pymol can be launched inside the application for each PDB file.</li>
 </ul>
 
-To use, in the Terminal, navigate to the folder containing **<i>main.py</i>** file and type **<i>python3 main.py</i>**.
+To use, in the Terminal, navigate to the folder containing **main.py** file and type **<i>python3 main.py</i>**.
